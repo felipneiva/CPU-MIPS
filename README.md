@@ -1,4 +1,8 @@
-# MIPS_Implementation
+# CPU-MIPS
+
+Processador feito em verilog para a disciplina Infraestrutura de Hardware(if674cc) do terceiro período da UFPE
+- site da disciplina: https://sites.google.com/a/cin.ufpe.br/if674cc/
+
 
 Grupo:
 - Caio Possidio
@@ -7,9 +11,4 @@ Grupo:
 - Frederick Almeida
 - Rubens Lima
 
-Mudanças em relação aos diagramas originais
-- modificado mux memtoreg
-- excluido zero extend do load size
-- mudança nos fios de controle da memoria
-- mudança no diagrama de estados de div e mult (novo estado para cada um deles)
-- mudança no shift_left_2_pc -> concatenador
+
